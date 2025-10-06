@@ -1,6 +1,6 @@
 # Game of Life  
 
-A fun and interactive implementation of **Conway’s Game of Life**, built by **Saad and Nour** as a 5-day school project challenge.  
+A fun and interactive implementation of **Conway’s Game of Life**, built by **Saad, Nour and me** as a 5-day school project challenge.  
 
 ---
 
